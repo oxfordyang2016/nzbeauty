@@ -11,4 +11,4 @@ def start():
     return 'hello world, newzealand!!!!!'
 
 @app.route('/test'):
-    return 'designed by jack yang '
+    return 'designed by jack yang,please communicate with yang756260386@gmail.com '
